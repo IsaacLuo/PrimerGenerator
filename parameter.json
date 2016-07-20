@@ -1,0 +1,16 @@
+{
+	"fileName": ["demo.fa"],
+	"segmentRange": [600,900],
+	"segmentOptimize": 900,
+	"overlapRange": [50,150],
+	"overlapOptimize": 100,
+	"tmRange": [58,65],
+	"tmOptimize": 65,
+	"primerLengthRange": [20,25],
+	"primerLengthOptimize": 20,
+	"gcRange": [40,65],
+	"gcOptimize": 65,
+	"startPosition": 6349,
+	"endPosition": -1,
+	"type":"PrimerDesigner"
+}
